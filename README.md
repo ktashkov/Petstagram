@@ -1,2 +1,2 @@
-# Petstagram
-SoftUni Web Basics
+# SoftUni Web Basics
+Petstagram
